@@ -1,0 +1,14 @@
+C:\Users\alleh\GitHub\individuell upgfit\bin\Debug\net8.0\individuell upgfit.exe
+C:\Users\alleh\GitHub\individuell upgfit\bin\Debug\net8.0\individuell upgfit.deps.json
+C:\Users\alleh\GitHub\individuell upgfit\bin\Debug\net8.0\individuell upgfit.runtimeconfig.json
+C:\Users\alleh\GitHub\individuell upgfit\bin\Debug\net8.0\individuell upgfit.dll
+C:\Users\alleh\GitHub\individuell upgfit\bin\Debug\net8.0\individuell upgfit.pdb
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.AssemblyInfoInputs.cache
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.AssemblyInfo.cs
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.csproj.CoreCompileInputs.cache
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.dll
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\refint\individuell upgfit.dll
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.pdb
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\individuell upgfit.genruntimeconfig.cache
+C:\Users\alleh\GitHub\individuell upgfit\obj\Debug\net8.0\ref\individuell upgfit.dll
